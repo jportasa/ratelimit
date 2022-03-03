@@ -54,7 +54,7 @@ Response:
 At /python/support there are the 2 versions:
 - ratelimit-check-middleware: where the API code is modified L48-L70
 - ratelimit-check-middleware:
-  The customer request goes with POST to http://middlewahre:5000/api-rate-limit and this middleware forwards the request to wave API if the request in not throttling rate limits.
+  The customer request goes with POST to http://middlewahre:5000/api-rate-limit and this middleware forwards the request to wave API if the request in not   throttling rate limits.
 
 I haven't packed with poetry al dependencies nor pushed the image.
 
