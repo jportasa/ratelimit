@@ -60,4 +60,4 @@ I haven't packed with poetry al dependencies nor pushed the image.
 
 # Final notes
 I didn't have time to pack all dependencies of the middleware because all the confusion with envoy talked with Kamal. 
-Honestly I see a lot of details in the test and from my humble point of view should be more focused exercice specially on how to implement rate limits as I thought I had to use envoy proxy or ISTIO ad I dedicated a lot of time to this until I asked.
+Honestly I see a lot of details in the test and from my humble point of view should be more focused exercice specially on how to implement rate limits as I thought I had to use envoy proxy or ISTIO and I dedicated a lot of time to this until I asked.
